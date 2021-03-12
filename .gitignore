@@ -1,0 +1,11 @@
+__MACOSX
+/data/rakuten-sentiment-dataset/binary/binary_test.csv
+/data/rakuten-sentiment-dataset/binary/binary_train.csv
+/data/rakuten-sentiment-dataset/full/
+*.DS_store
+
+/implementations/rakuten-full-classification/tfidf_features.pickle
+/implementations/rakuten-full-classification/tfidf_vectorizer.pickle
+
+/implementations/rakuten-binary-classification/tfidf_features.pickle
+/implementations/rakuten-binary-classification/tfidf_vectorizer.pickle
