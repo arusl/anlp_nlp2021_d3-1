@@ -1,5 +1,7 @@
 ## Overview
 
+This repository contains codes related to the experiments in the following research paper.
+
 Paper Title: **An Experimental Evaluation of Japanese Tokenizers for Sentiment-Based Text Classification**
 
 Authors: **Andre Rusli** and **Makoto Shishido** (Tokyo Denki University)
