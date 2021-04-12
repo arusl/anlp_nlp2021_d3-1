@@ -10,5 +10,5 @@ which was presented at the **27th Annual Meeting of the Association of Natural L
 
 Conference website: https://www.anlp.jp/nlp2021/index.html.
 
-Original Japanese Rakuten sentiment dataset can be downloaded through [here](https://github.com/zhangxiangxiao/glyph).
+Original Japanese Rakuten sentiment dataset can be downloaded through [here](https://github.com/zhangxiangxiao/glyph), then save to `data/rakuten-sentiment-dataset/binary/`.
 
