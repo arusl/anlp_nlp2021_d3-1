@@ -2,7 +2,7 @@
 
 This repository contains codes related to the experiments in the following research paper.
 
-> Paper Title: **An Experimental Evaluation of Japanese Tokenizers for Sentiment-Based Text Classification**
+> Paper Title: **An Experimental Evaluation of Japanese Tokenizers for Sentiment-Based Text Classification** ([PDF](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D3-1.pdf))
 > 
 > Authors: **Andre Rusli** and **Makoto Shishido** (Tokyo Denki University)
 
